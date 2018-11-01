@@ -1,0 +1,11 @@
+Source: PPAP
+Section: main/utils
+Priority: extra
+Maintainer: Aleksandr Krasnov <alekforwork@gmail.com>
+Build-Depends: debhelper (>= 9)
+Package: ppap
+Architecture: all
+Depends: ${misc:Depends}, python, nmap, hping3, build-essential, python-pip, ruby-dev, git, libpcap-dev, libgmp3-dev, python-tabulate,  python-terminaltables
+Description: PPAP
+ PPAP is a penetration testing toolkit that has been created for automatic testing.
+ Powered by bettercap and nmap.
