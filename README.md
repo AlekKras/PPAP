@@ -4,6 +4,7 @@ PPAP
 PPAP is a penetration testing toolkit. It is used for quick testing.
 Powered by <a href="https://www.bettercap.org"> bettercap</a> and <a href="https://nmap.org/"> nmap</a>.
 
+If you want to know what the dedication was, check [`PPAP.txt`](https://raw.githubusercontent.com/AlekKras/PPAP/master/PPAP.txt) and zoom out.
 Instalation
 =
 
